@@ -1,0 +1,15 @@
+{
+    "name": "zaporylie/nets",
+    "description": "Nets (netaxept) API wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zaporylie",
+            "email": "jakub@piaseccy.pl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "zaporylie\\Nets\\": "src/Nets" }
+    }
+}
